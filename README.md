@@ -2,8 +2,6 @@
 
 This quick-start project template combines Phaser 3 with [TypeScript](https://www.typescriptlang.org/) and uses [Webpack](https://webpack.js.org) for bundling.
 
-**The official website takes 20 seconds and this one only takes 4 seconds**
-
 **Please enjoy it**
 
 ## Requirements

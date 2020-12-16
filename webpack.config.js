@@ -1,41 +1,61 @@
 const path = require("path");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const webpack = require("webpack");
+const CopyPlugin = require("copy-webpack-plugin");
+const TerserPlugin = require("terser-webpack-plugin");
 
+const phaser = path.resolve(
+  __dirname,
+  "node_modules/phaser/dist/phaser.min.js"
+);
 module.exports = {
-  entry: ["./node_modules/phaser/dist/phaser.min.js", "./src/index.ts"],
+  entry: {
+    app: "./src/index.ts",
+    vendor: "phaser",
+  },
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "[name].bundle.js",
   },
   mode: "development",
   devServer: {
-    open: true,
     contentBase: "./dist",
   },
-  devtool: "inline-source-map",
   resolve: {
     extensions: [".tsx", ".ts", ".js"],
   },
-  optimization: {
-    splitChunks: {
-      chunks: "all",
-    },
-    usedExports: true,
-  },
-  cache: true,
   plugins: [
     new HtmlWebpackPlugin({
       title: "phaser3",
     }),
   ],
-  externals: {
-    phaser: "phaser",
+  optimization: {
+    minimize: true,
+    minimizer: [
+      new TerserPlugin({
+        exclude: /commons/i,
+      }),
+    ],
+    splitChunks: {
+      cacheGroups: {
+        commons: {
+          name: "commons",
+          chunks: "initial",
+          minChunks: 2,
+        },
+      },
+    },
+  },
+  resolve: {
+    alias: {
+      phaser: path.resolve(__dirname, "node_modules/phaser/dist/phaser.min.js"),
+    },
   },
   module: {
     rules: [
       {
-        test: /phaser.min.js$/,
+        test: phaser,
         loader: "expose-loader",
         options: {
           exposes: "phaser",
