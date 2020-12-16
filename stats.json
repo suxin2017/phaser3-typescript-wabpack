@@ -1,0 +1,2929 @@
+{
+  "hash": "044cf03177b9d19c7331",
+  "version": "5.10.2",
+  "time": 16270,
+  "builtAt": 1608035823456,
+  "publicPath": "auto",
+  "outputPath": "/Users/xw/self/phaser3-typescript-wabpack/dist",
+  "assetsByChunkName": {
+    "main": [
+      "main.bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "946.bundle.js",
+      "size": 969157,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 969157
+      },
+      "chunkNames": [],
+      "chunkIdHints": [
+        "vendors"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        946
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": true
+    },
+    {
+      "type": "asset",
+      "name": "295b29cd176771714363.glsl",
+      "size": 24493,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "src/assets/starfields.glsl",
+        "immutable": true,
+        "contenthash": "295b29cd176771714363",
+        "size": 24493
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        179
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "c01dffe0abe4020de90f.png",
+      "size": 20918,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "src/assets/libs.png",
+        "immutable": true,
+        "contenthash": "c01dffe0abe4020de90f",
+        "size": 20918
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        179
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "27985808f159736890a3.png",
+      "size": 4997,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "src/assets/phaser3-logo.png",
+        "immutable": true,
+        "contenthash": "27985808f159736890a3",
+        "size": 4997
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        179
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "0fc8e57a75e67955c7c0.glsl",
+      "size": 3937,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "sourceFilename": "src/assets/plasma-bundle.glsl",
+        "immutable": true,
+        "contenthash": "0fc8e57a75e67955c7c0",
+        "size": 3937
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "main"
+      ],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [
+        179
+      ],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.bundle.js",
+      "size": 2592,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "size": 2592
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 240,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 240
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 60222,
+      "sizes": {
+        "javascript": 2090,
+        "asset": 54345,
+        "runtime": 3787
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.bundle.js"
+      ],
+      "auxiliaryFiles": [
+        "0fc8e57a75e67955c7c0.glsl",
+        "27985808f159736890a3.png",
+        "295b29cd176771714363.glsl",
+        "c01dffe0abe4020de90f.png"
+      ],
+      "hash": "20685f7bc95ca3a07499",
+      "childrenByOrder": {},
+      "id": 179,
+      "siblings": [
+        946
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "asset/resource",
+          "size": 42,
+          "sizes": {
+            "javascript": 42,
+            "asset": 20918
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/libs.png",
+          "name": "./src/assets/libs.png",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/libs.png",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "issuerName": "./src/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 10,
+            "resolving": 9,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 9,
+            "dependencies": 0
+          },
+          "id": 873,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/libs.png",
+              "loc": "15:0-40",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/libs.png",
+              "loc": "26:32-39",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "asset/resource",
+          "size": 42,
+          "sizes": {
+            "javascript": 42,
+            "asset": 4997
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/phaser3-logo.png",
+          "name": "./src/assets/phaser3-logo.png",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/phaser3-logo.png",
+          "index": 6,
+          "preOrderIndex": 6,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "issuerName": "./src/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 10,
+            "resolving": 9,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 9,
+            "dependencies": 0
+          },
+          "id": 50,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/phaser3-logo.png",
+              "loc": "16:0-55",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/phaser3-logo.png",
+              "loc": "25:32-46",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "asset/resource",
+          "size": 42,
+          "sizes": {
+            "javascript": 42,
+            "asset": 3937
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/plasma-bundle.glsl",
+          "name": "./src/assets/plasma-bundle.glsl",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/plasma-bundle.glsl",
+          "index": 7,
+          "preOrderIndex": 7,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "issuerName": "./src/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 10,
+            "resolving": 9,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 9,
+            "dependencies": 0
+          },
+          "id": 645,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/plasma-bundle.glsl",
+              "loc": "17:0-53",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/plasma-bundle.glsl",
+              "loc": "27:33-43",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "asset/resource",
+          "size": 42,
+          "sizes": {
+            "javascript": 42,
+            "asset": 24493
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/starfields.glsl",
+          "name": "./src/assets/starfields.glsl",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/starfields.glsl",
+          "index": 8,
+          "preOrderIndex": 8,
+          "index2": 7,
+          "postOrderIndex": 7,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "issuerName": "./src/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 10,
+            "resolving": 9,
+            "restoring": 0,
+            "building": 1,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 9,
+            "dependencies": 0
+          },
+          "id": 618,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/starfields.glsl",
+              "loc": "18:0-54",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+              "module": "./src/index.ts + 1 modules",
+              "moduleName": "./src/index.ts + 1 modules",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./assets/starfields.glsl",
+              "loc": "28:32-46",
+              "moduleId": 414,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "size": 1922,
+          "sizes": {
+            "javascript": 1922
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "name": "./src/index.ts + 1 modules",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": false,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 414,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src/index.ts",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Cannot concat with ./src/assets/libs.png: Module Concatenation is not implemented for AssetGenerator",
+            "ModuleConcatenation bailout: Cannot concat with ./src/assets/phaser3-logo.png: Module Concatenation is not implemented for AssetGenerator",
+            "ModuleConcatenation bailout: Cannot concat with ./src/assets/plasma-bundle.glsl: Module Concatenation is not implemented for AssetGenerator",
+            "ModuleConcatenation bailout: Cannot concat with ./src/assets/starfields.glsl: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 1880,
+              "sizes": {
+                "javascript": 1880
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "index": 3,
+              "preOrderIndex": 3,
+              "index2": 8,
+              "postOrderIndex": 8,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [],
+              "usedExports": [],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-13:5"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/dynamic",
+              "size": 42,
+              "sizes": {
+                "javascript": 42
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "external \"phaser\"",
+              "name": "external \"phaser\"",
+              "nameForCondition": null,
+              "index": 4,
+              "preOrderIndex": 4,
+              "index2": 3,
+              "postOrderIndex": 3,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "issuerName": "./src/index.ts",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "name": "./src/index.ts",
+                  "profile": {
+                    "total": 2044,
+                    "resolving": 59,
+                    "restoring": 0,
+                    "building": 1985,
+                    "integration": 0,
+                    "storing": 0,
+                    "additionalResolving": 0,
+                    "additionalIntegration": 0,
+                    "factory": 59,
+                    "dependencies": 0
+                  },
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 1,
+                "resolving": 1,
+                "restoring": 0,
+                "building": 0,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 1,
+                "dependencies": 0
+              },
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "module": "./src/index.ts",
+                  "moduleName": "./src/index.ts",
+                  "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "resolvedModule": "./src/index.ts",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "phaser",
+                  "loc": "14:0-37",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "module": "./src/index.ts",
+                  "moduleName": "./src/index.ts",
+                  "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "resolvedModule": "./src/index.ts",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "phaser",
+                  "loc": "45:2-7",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "module": "./src/index.ts",
+                  "moduleName": "./src/index.ts",
+                  "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+                  "resolvedModule": "./src/index.ts",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "phaser",
+                  "loc": "53:15-19",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "Game",
+                "Scene"
+              ],
+              "providedExports": null,
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: List of module exports is dynamic (Game: maybe provided (runtime-defined) and used in main, Scene: maybe provided (runtime-defined) and used in main)"
+              ],
+              "depth": 1
+            }
+          ]
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 86,
+          "sizes": {
+            "runtime": 86
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 2613,
+          "sizes": {
+            "runtime": 2613
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 867,
+          "sizes": {
+            "runtime": 867
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./node_modules/phaser/dist/phaser.min.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src/index.ts"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 969970,
+      "sizes": {
+        "javascript": 969970
+      },
+      "names": [],
+      "idHints": [
+        "vendors"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "946.bundle.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "3c2ace7a4f520bf139f2",
+      "childrenByOrder": {},
+      "id": 946,
+      "siblings": [
+        179
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 699,
+          "sizes": {
+            "javascript": 699
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "name": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "issuerName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "profile": {
+                "total": 0,
+                "resolving": 0,
+                "restoring": 0,
+                "building": 0,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 0,
+                "dependencies": 0
+              },
+              "id": 946
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 672,
+          "issuerId": 946,
+          "chunks": [
+            946
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "type": "cjs require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../../expose-loader/dist/runtime/getGlobalThis.js",
+              "loc": "2:42-102",
+              "moduleId": 946,
+              "resolvedModuleId": 946
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+              "module": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+              "moduleName": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+              "resolvedModule": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "4:0-14",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 4:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 4:0-33:4",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 429,
+          "sizes": {
+            "javascript": 429
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 946,
+          "issuerId": null,
+          "chunks": [
+            946
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "5:0-14",
+              "moduleId": 946,
+              "resolvedModuleId": 946
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./node_modules/phaser/dist/phaser.min.js",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 5:0-14",
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-62",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 968842,
+          "sizes": {
+            "javascript": 968842
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "name": "./node_modules/phaser/dist/phaser.min.js",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "issuerName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "profile": {
+                "total": 0,
+                "resolving": 0,
+                "restoring": 0,
+                "building": 0,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 0,
+                "dependencies": 0
+              },
+              "id": 946
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 40,
+          "issuerId": 946,
+          "chunks": [
+            946
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+              "type": "cjs require",
+              "active": true,
+              "explanation": "",
+              "userRequest": "-!./phaser.min.js",
+              "loc": "1:33-61",
+              "moduleId": 946,
+              "resolvedModuleId": 946
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "module": "./node_modules/phaser/dist/phaser.min.js",
+              "moduleName": "./node_modules/phaser/dist/phaser.min.js",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+              "resolvedModule": "./node_modules/phaser/dist/phaser.min.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:65-79",
+              "moduleId": 40,
+              "resolvedModuleId": 40
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:65-79",
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-968833",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./node_modules/phaser/dist/phaser.min.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src/index.ts"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 429,
+      "sizes": {
+        "javascript": 429
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 0,
+        "resolving": 0,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 0,
+        "dependencies": 0
+      },
+      "id": 946,
+      "issuerId": null,
+      "chunks": [
+        946
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "5:0-14",
+          "moduleId": 946,
+          "resolvedModuleId": 946
+        },
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./node_modules/phaser/dist/phaser.min.js",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 5:0-14",
+        "Statement (VariableDeclaration) with side effects in source code at 1:0-62",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "size": 1922,
+      "sizes": {
+        "javascript": 1922
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+      "name": "./src/index.ts + 1 modules",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 8,
+      "postOrderIndex": 8,
+      "cacheable": false,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 414,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src/index.ts",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./src/assets/libs.png: Module Concatenation is not implemented for AssetGenerator",
+        "ModuleConcatenation bailout: Cannot concat with ./src/assets/phaser3-logo.png: Module Concatenation is not implemented for AssetGenerator",
+        "ModuleConcatenation bailout: Cannot concat with ./src/assets/plasma-bundle.glsl: Module Concatenation is not implemented for AssetGenerator",
+        "ModuleConcatenation bailout: Cannot concat with ./src/assets/starfields.glsl: Module Concatenation is not implemented for AssetGenerator"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 1880,
+          "sizes": {
+            "javascript": 1880
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-13:5"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/dynamic",
+          "size": 42,
+          "sizes": {
+            "javascript": 42
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "external \"phaser\"",
+          "name": "external \"phaser\"",
+          "nameForCondition": null,
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "issuerName": "./src/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "name": "./src/index.ts",
+              "profile": {
+                "total": 2044,
+                "resolving": 59,
+                "restoring": 0,
+                "building": 1985,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 59,
+                "dependencies": 0
+              },
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 1,
+            "resolving": 1,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 1,
+            "dependencies": 0
+          },
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "module": "./src/index.ts",
+              "moduleName": "./src/index.ts",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "phaser",
+              "loc": "14:0-37",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "module": "./src/index.ts",
+              "moduleName": "./src/index.ts",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "phaser",
+              "loc": "45:2-7",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "module": "./src/index.ts",
+              "moduleName": "./src/index.ts",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+              "resolvedModule": "./src/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "phaser",
+              "loc": "53:15-19",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "Game",
+            "Scene"
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: List of module exports is dynamic (Game: maybe provided (runtime-defined) and used in main, Scene: maybe provided (runtime-defined) and used in main)"
+          ],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 968842,
+      "sizes": {
+        "javascript": 968842
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "name": "./node_modules/phaser/dist/phaser.min.js",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "issuerName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 946
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 0,
+        "resolving": 0,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 0,
+        "dependencies": 0
+      },
+      "id": 40,
+      "issuerId": 946,
+      "chunks": [
+        946
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "-!./phaser.min.js",
+          "loc": "1:33-61",
+          "moduleId": 946,
+          "resolvedModuleId": 946
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "module": "./node_modules/phaser/dist/phaser.min.js",
+          "moduleName": "./node_modules/phaser/dist/phaser.min.js",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "resolvedModule": "./node_modules/phaser/dist/phaser.min.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "1:65-79",
+          "moduleId": 40,
+          "resolvedModuleId": 40
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 1:65-79",
+        "Statement (ExpressionStatement) with side effects in source code at 1:0-968833",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 699,
+      "sizes": {
+        "javascript": 699
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+      "name": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+      "issuerName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "name": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 946
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 0,
+        "resolving": 0,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 0,
+        "dependencies": 0
+      },
+      "id": 672,
+      "issuerId": 946,
+      "chunks": [
+        946
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "module": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "moduleName": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/cjs.js??ruleSet[1].rules[0]!/Users/xw/self/phaser3-typescript-wabpack/node_modules/phaser/dist/phaser.min.js",
+          "resolvedModule": "./node_modules/phaser/dist/phaser.min-exposed.js",
+          "type": "cjs require",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../expose-loader/dist/runtime/getGlobalThis.js",
+          "loc": "2:42-102",
+          "moduleId": 946,
+          "resolvedModuleId": 946
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "module": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "moduleName": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "resolvedModule": "./node_modules/expose-loader/dist/runtime/getGlobalThis.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "4:0-14",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 4:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 4:0-33:4",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/dynamic",
+      "size": 42,
+      "sizes": {
+        "javascript": 42
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "external \"phaser\"",
+      "name": "external \"phaser\"",
+      "nameForCondition": null,
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "issuerName": "./src/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 1,
+        "resolving": 1,
+        "restoring": 0,
+        "building": 0,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 1,
+        "dependencies": 0
+      },
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "module": "./src/index.ts",
+          "moduleName": "./src/index.ts",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "phaser",
+          "loc": "14:0-37",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "module": "./src/index.ts",
+          "moduleName": "./src/index.ts",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "phaser",
+          "loc": "45:2-7",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "module": "./src/index.ts",
+          "moduleName": "./src/index.ts",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "phaser",
+          "loc": "53:15-19",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "Game",
+        "Scene"
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: List of module exports is dynamic (Game: maybe provided (runtime-defined) and used in main, Scene: maybe provided (runtime-defined) and used in main)"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "asset/resource",
+      "size": 42,
+      "sizes": {
+        "javascript": 42,
+        "asset": 20918
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/libs.png",
+      "name": "./src/assets/libs.png",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/libs.png",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "issuerName": "./src/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 10,
+        "resolving": 9,
+        "restoring": 0,
+        "building": 1,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 9,
+        "dependencies": 0
+      },
+      "id": 873,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/libs.png",
+          "loc": "15:0-40",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/libs.png",
+          "loc": "26:32-39",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "asset/resource",
+      "size": 42,
+      "sizes": {
+        "javascript": 42,
+        "asset": 4997
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/phaser3-logo.png",
+      "name": "./src/assets/phaser3-logo.png",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/phaser3-logo.png",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "issuerName": "./src/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 10,
+        "resolving": 9,
+        "restoring": 0,
+        "building": 1,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 9,
+        "dependencies": 0
+      },
+      "id": 50,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/phaser3-logo.png",
+          "loc": "16:0-55",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/phaser3-logo.png",
+          "loc": "25:32-46",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "asset/resource",
+      "size": 42,
+      "sizes": {
+        "javascript": 42,
+        "asset": 3937
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/plasma-bundle.glsl",
+      "name": "./src/assets/plasma-bundle.glsl",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/plasma-bundle.glsl",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "issuerName": "./src/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 10,
+        "resolving": 9,
+        "restoring": 0,
+        "building": 1,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 9,
+        "dependencies": 0
+      },
+      "id": 645,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/plasma-bundle.glsl",
+          "loc": "17:0-53",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/plasma-bundle.glsl",
+          "loc": "27:33-43",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "asset/resource",
+      "size": 42,
+      "sizes": {
+        "javascript": 42,
+        "asset": 24493
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/starfields.glsl",
+      "name": "./src/assets/starfields.glsl",
+      "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/src/assets/starfields.glsl",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+      "issuerName": "./src/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "name": "./src/index.ts",
+          "profile": {
+            "total": 2044,
+            "resolving": 59,
+            "restoring": 0,
+            "building": 1985,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 59,
+            "dependencies": 0
+          },
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "profile": {
+        "total": 10,
+        "resolving": 9,
+        "restoring": 0,
+        "building": 1,
+        "integration": 0,
+        "storing": 0,
+        "additionalResolving": 0,
+        "additionalIntegration": 0,
+        "factory": 9,
+        "dependencies": 0
+      },
+      "id": 618,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/starfields.glsl",
+          "loc": "18:0-54",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts|b6682eff4908d4f951af7c8d4de3d856",
+          "module": "./src/index.ts + 1 modules",
+          "moduleName": "./src/index.ts + 1 modules",
+          "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/ts-loader/index.js!/Users/xw/self/phaser3-typescript-wabpack/src/index.ts",
+          "resolvedModule": "./src/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./assets/starfields.glsl",
+          "loc": "28:32-46",
+          "moduleId": 414,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 86,
+      "sizes": {
+        "runtime": 86
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 2613,
+      "sizes": {
+        "runtime": 2613
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 867,
+      "sizes": {
+        "runtime": 867
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        946,
+        179
+      ],
+      "assets": [
+        {
+          "name": "946.bundle.js",
+          "size": 969157
+        },
+        {
+          "name": "main.bundle.js",
+          "size": 2592
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 971749,
+      "auxiliaryAssets": [
+        {
+          "name": "0fc8e57a75e67955c7c0.glsl",
+          "size": 3937
+        },
+        {
+          "name": "27985808f159736890a3.png",
+          "size": 4997
+        },
+        {
+          "name": "295b29cd176771714363.glsl",
+          "size": 24493
+        },
+        {
+          "name": "c01dffe0abe4020de90f.png",
+          "size": 20918
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 54345,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": true
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        946,
+        179
+      ],
+      "assets": [
+        {
+          "name": "946.bundle.js",
+          "size": 969157
+        },
+        {
+          "name": "main.bundle.js",
+          "size": 2592
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 971749,
+      "auxiliaryAssets": [
+        {
+          "name": "0fc8e57a75e67955c7c0.glsl",
+          "size": 3937
+        },
+        {
+          "name": "27985808f159736890a3.png",
+          "size": 4997
+        },
+        {
+          "name": "295b29cd176771714363.glsl",
+          "size": 24493
+        },
+        {
+          "name": "c01dffe0abe4020de90f.png",
+          "size": 20918
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 54345,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": true
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [
+    {
+      "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  946.bundle.js (946 KiB)",
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  946.bundle.js (946 KiB)\n    at compiler.hooks.afterEmit.tap.compilation (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:134:7)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/Hook.js:18:14)\n    at asyncLib.forEachLimit.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:799:27)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:2818:7\n    at done (/Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at outputFileSystem.writeFile.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:667:33)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:144:16\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:61:14"
+    },
+    {
+      "message": "entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  main (949 KiB)\n      946.bundle.js\n      main.bundle.js\n",
+      "stack": "EntrypointsOverSizeLimitWarning: entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.\nEntrypoints:\n  main (949 KiB)\n      946.bundle.js\n      main.bundle.js\n\n    at compiler.hooks.afterEmit.tap.compilation (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:139:7)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/Hook.js:18:14)\n    at asyncLib.forEachLimit.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:799:27)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:2818:7\n    at done (/Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at outputFileSystem.writeFile.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:667:33)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:144:16\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:61:14"
+    },
+    {
+      "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
+      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at compiler.hooks.afterEmit.tap.compilation (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:153:21)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/Hook.js:18:14)\n    at asyncLib.forEachLimit.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:799:27)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:2818:7\n    at done (/Users/xw/self/phaser3-typescript-wabpack/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at outputFileSystem.writeFile.err (/Users/xw/self/phaser3-typescript-wabpack/node_modules/webpack/lib/Compiler.js:667:33)\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:144:16\n    at /Users/xw/self/phaser3-typescript-wabpack/node_modules/graceful-fs/graceful-fs.js:61:14"
+    }
+  ],
+  "warningsCount": 3,
+  "children": [
+    {
+      "name": "HtmlWebpackCompiler",
+      "hash": "5c6fd8ff2437dfc490ea",
+      "version": "5.10.2",
+      "time": 239,
+      "builtAt": 1608035807445,
+      "publicPath": "auto",
+      "outputPath": "/Users/xw/self/phaser3-typescript-wabpack/dist",
+      "assetsByChunkName": {
+        "HtmlWebpackPlugin_0": [
+          "__child-HtmlWebpackPlugin_0"
+        ]
+      },
+      "assets": [
+        {
+          "type": "asset",
+          "name": "__child-HtmlWebpackPlugin_0",
+          "size": 1823,
+          "emitted": false,
+          "comparedForEmit": false,
+          "cached": true,
+          "info": {
+            "javascriptModule": false
+          },
+          "chunkNames": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [
+            443
+          ],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 442,
+          "sizes": {
+            "javascript": 442
+          },
+          "names": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "idHints": [],
+          "runtime": [
+            "HtmlWebpackPlugin_0"
+          ],
+          "files": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "auxiliaryFiles": [],
+          "hash": "320e29159931dad71f34",
+          "childrenByOrder": {},
+          "id": 443,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 442,
+              "sizes": {
+                "javascript": 442
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+              "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "profile": {
+                "total": 0,
+                "resolving": 0,
+                "restoring": 0,
+                "building": 0,
+                "integration": 0,
+                "storing": 0,
+                "additionalResolving": 0,
+                "additionalIntegration": 0,
+                "factory": 0,
+                "dependencies": 0
+              },
+              "id": 893,
+              "issuerId": null,
+              "chunks": [
+                443
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+                  "module": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+                  "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+                  "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+                  "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "1:107-121",
+                  "moduleId": 893,
+                  "resolvedModuleId": 893
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+                  "loc": "HtmlWebpackPlugin_0",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 1:107-121",
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-107",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0",
+              "request": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 442,
+          "sizes": {
+            "javascript": 442
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+          "nameForCondition": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "profile": {
+            "total": 0,
+            "resolving": 0,
+            "restoring": 0,
+            "building": 0,
+            "integration": 0,
+            "storing": 0,
+            "additionalResolving": 0,
+            "additionalIntegration": 0,
+            "factory": 0,
+            "dependencies": 0
+          },
+          "id": 893,
+          "issuerId": null,
+          "chunks": [
+            443
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+              "module": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+              "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+              "resolvedModuleIdentifier": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+              "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./node_modules/html-webpack-plugin/default_index.ejs",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:107-121",
+              "moduleId": 893,
+              "resolvedModuleId": 893
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/lib/loader.js!/Users/xw/self/phaser3-typescript-wabpack/node_modules/html-webpack-plugin/default_index.ejs",
+              "loc": "HtmlWebpackPlugin_0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:107-121",
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-107",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        }
+      ],
+      "entrypoints": {
+        "HtmlWebpackPlugin_0": {
+          "name": "HtmlWebpackPlugin_0",
+          "chunks": [
+            443
+          ],
+          "assets": [
+            {
+              "name": "__child-HtmlWebpackPlugin_0"
+            }
+          ],
+          "filteredAssets": 0,
+          "assetsSize": null,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0": {
+          "name": "HtmlWebpackPlugin_0",
+          "chunks": [
+            443
+          ],
+          "assets": [
+            {
+              "name": "__child-HtmlWebpackPlugin_0"
+            }
+          ],
+          "filteredAssets": 0,
+          "assetsSize": null,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ]
+}
