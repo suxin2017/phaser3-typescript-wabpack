@@ -12,7 +12,7 @@ const phaser = path.resolve(
 module.exports = {
   entry: {
     app: "./src/index.ts",
-    vendor: "phaser",
+    // vendor: "phaser",
   },
   output: {
     path: path.resolve(__dirname, "dist"),
@@ -35,15 +35,15 @@ module.exports = {
     minimize: true,
     minimizer: [
       new TerserPlugin({
-        exclude: /commons/i,
+        exclude: /phaser/i,
       }),
     ],
     splitChunks: {
+      chunks: "all",
       cacheGroups: {
-        commons: {
-          name: "commons",
-          chunks: "initial",
-          minChunks: 2,
+        vendors: {
+          test: /phaser\.min\.js$/i,
+          filename: "phaser.bundle.js",
         },
       },
     },
